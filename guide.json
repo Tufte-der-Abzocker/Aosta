@@ -1,0 +1,647 @@
+{
+  "meta": {
+    "dates": "24.08.–03.09.2025",
+    "base_suggestion": "Aosta/Cogne + Torgnon/Antey oder Gressoney",
+    "intro": "Euer aktiver Familienguide für das Aostatal: kinderfreundliche Panoramatouren zu Seen & Hütten, sanfte MTB-Runden auf Forstwegen und leichte Trails, dazu kleine, authentische Lokale sowie Burgen und Museen für Schlechtwettertage.",
+    "placeholder": "https://upload.wikimedia.org/wikipedia/commons/6/60/Aosta_-_Vall%C3%A9e_d%27Aoste_-_Panorama.jpg",
+    "licensing_note": "Fotos sind, sofern nicht anders vermerkt, über Wikimedia Commons (CC BY/CC BY-SA) eingebunden. Bitte respektiert die Lizenzen. Karten © OpenStreetMap-Mitwirkende."
+  },
+  "hikes": [
+    {
+      "type": "hike",
+      "name": "Lago d’Arpy – Familien-See mit Mont-Blanc-Blick",
+      "area": "Colle San Carlo · Morgex/La Thuile",
+      "summary": "Schattiger Lärchenwald, flacher Pfad zum smaragdgrünen See auf 2.066 m; bei gutem Wetter Spiegelung der Grandes Jorasses/Mont-Blanc-Kette.",
+      "stats": "ca. 6 km • ⇑ 150 Hm • 2–2,5 h",
+      "start": {
+        "name": "Parkplatz Colle San Carlo (Hotel Genzianella)",
+        "lat": 45.742817,
+        "lon": 6.989551
+      },
+      "pois": [
+        {
+          "name": "Lago d’Arpy",
+          "lat": 45.723189,
+          "lon": 7.000211
+        }
+      ],
+      "tags": [
+        "leicht",
+        "Picknick",
+        "See",
+        "Panorama"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lago_di_Arpy.jpg"
+      ],
+      "links": [
+        {
+          "label": "Tourenbeschreibung (Randos-Montblanc)",
+          "url": "https://www.randos-montblanc.com/en/easy-hikes/lago-darpy.html"
+        }
+      ],
+      "description": "Vom Colle San Carlo gemütlich auf gutem Waldweg zum Lago d’Arpy – perfekter Familien- und Fotospot. Früh starten, Parkplätze sind beliebt."
+    },
+    {
+      "type": "hike",
+      "name": "Rifugio Benevolo – Murmeltiere & Gletscherblicke",
+      "area": "Val di Rhêmes · Gran Paradiso",
+      "summary": "Breiter Talweg entlang der Dora di Rhêmes zur Hütte auf 2.285 m, häufig Murmeltiere. Großes Wiesenplateau für freies Spiel und Kuchenpause.",
+      "stats": "ca. 8 km • ⇑ 400 Hm • 3–4 h",
+      "start": {
+        "name": "Thumel Parkplatz",
+        "lat": 45.535,
+        "lon": 7.103
+      },
+      "pois": [
+        {
+          "name": "Rifugio Benevolo (2.285 m)",
+          "lat": 45.5157485,
+          "lon": 7.0844327
+        }
+      ],
+      "tags": [
+        "moderat",
+        "Hütte",
+        "Tierbeobachtung",
+        "Gletscherblick"
+      ],
+      "images": [
+        "https://www.fondazionemontagnasicura.org/images/huts/benevolo.jpg"
+      ],
+      "links": [
+        {
+          "label": "Hütteninfo (Fondazione Montagna Sicura)",
+          "url": "https://www.fondazionemontagnasicura.org/en/rifugi-valdostani/rfms-93"
+        }
+      ]
+    },
+    {
+      "type": "hike",
+      "name": "Rifugio Walter Bonatti – Balkon zum Mont Blanc",
+      "area": "Val Ferret · Courmayeur",
+      "summary": "Vom Weiler Lavachey anfangs durch Wald, dann über Almwiesen zum legendären Bonatti-Refugio – einer der besten Blicke auf Grandes Jorasses.",
+      "stats": "ca. 6.6 km • ⇑ 320 Hm • 2–3 h",
+      "start": {
+        "name": "Lavachey (1.642 m)",
+        "lat": 45.853,
+        "lon": 7.029
+      },
+      "pois": [
+        {
+          "name": "Rifugio Walter Bonatti (2.025 m)",
+          "lat": 45.8478,
+          "lon": 7.0347
+        }
+      ],
+      "tags": [
+        "moderat",
+        "Hütte",
+        "Mont-Blanc-Panorama"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rifugio_Walter_Bonatti_Refuge.jpg"
+      ],
+      "links": [
+        {
+          "label": "Hütte (rifugiobonatti.it)",
+          "url": "https://www.rifugiobonatti.it/en/hut/"
+        },
+        {
+          "label": "AllTrails (Route)",
+          "url": "https://www.alltrails.com/trail/italy/aosta-valley/rifugio-walter-bonatti-via-lavachey"
+        }
+      ]
+    },
+    {
+      "type": "hike",
+      "name": "Cascate del Rutor – die drei Riesenwasserfälle",
+      "area": "La Thuile · La Joux",
+      "summary": "Von La Joux über Brücken und Stege entlang des Rutorbachs zu den tosenden Wasserfällen – spektakulär, aber familiengeeignet bis Stufe 1.",
+      "stats": "3–8 km variabel • ⇑ 200–500 Hm • 1,5–3 h",
+      "start": {
+        "name": "Parkplatz La Joux",
+        "lat": 45.68927,
+        "lon": 6.961205
+      },
+      "tags": [
+        "leicht–moderat",
+        "Wasserfall",
+        "Abenteuer"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/30/Cascate_del_Rutor_Valle_d%27Aosta.jpg"
+      ],
+      "links": [
+        {
+          "label": "Info (Randos-Montblanc)",
+          "url": "https://www.randos-montblanc.com/en/hard-hikes/lago-del-rutor.html"
+        }
+      ]
+    },
+    {
+      "type": "hike",
+      "name": "Lago Blu & Cervino-Blick",
+      "area": "Valtournenche · Breuil-Cervinia",
+      "summary": "Mini-Spaziergang (5–10 Min.) vom Parkplatz zum fotogenen See mit Matterhorn-Spiegelung – perfekter Stopp auf dem Weg nach Cervinia.",
+      "stats": "0.5–1 km • ⇑ 20 Hm • 0:20 h",
+      "start": {
+        "name": "Parkplatz Lago Blu",
+        "lat": 45.9225,
+        "lon": 7.61806
+      },
+      "tags": [
+        "sehr leicht",
+        "See",
+        "Fotospot"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lago_Blu_2022.jpg"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Blue_Lake_(Italy)"
+        }
+      ]
+    },
+    {
+      "type": "hike",
+      "name": "Chamois – Lago di Lod (autofreies Alpendorf)",
+      "area": "Chamois · Valtournenche",
+      "summary": "Mit der Seilbahn von Buisson nach Chamois, dann auf breitem Weg in ~45 Min. zum familienfreundlichen Bergsee Lago di Lod (Spielwiese, Boote).",
+      "stats": "3–4 km • ⇑ 150 Hm • 1,5–2 h",
+      "start": {
+        "name": "Seilbahn Buisson Talstation",
+        "lat": 45.83528,
+        "lon": 7.60972
+      },
+      "pois": [
+        {
+          "name": "Chamois Dorf",
+          "lat": 45.8454,
+          "lon": 7.6231
+        },
+        {
+          "name": "Lago di Lod",
+          "lat": 45.84539,
+          "lon": 7.62308
+        }
+      ],
+      "tags": [
+        "leicht",
+        "Seilbahn",
+        "See"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Valtournenche_Lac_Bleu_01.jpg"
+      ],
+      "links": [
+        {
+          "label": "Gemeinde Chamois (Itinerar)",
+          "url": "https://www.comune.chamois.ao.it/fr-fr/vivere-il-comune/itinerari/corgnolaz-lago-lod-26831-1-69256f0a16a41f9358ae0fda51cacf99?mappa="
+        },
+        {
+          "label": "LoveVDA – Buisson/Chamois",
+          "url": "https://www.lovevda.it/en/database/5/ski-lift-complex/antey-saint-andre/buisson-chamois-cablecar/3982"
+        }
+      ]
+    },
+    {
+      "type": "hike",
+      "name": "Panoramaweg Saint-Barthélemy (Porliod – Rif. Magià)",
+      "area": "Nus · Saint-Barthélemy-Tal",
+      "summary": "Stiller Höhenweg über Almwiesen mit großem Weitblick (Gran Paradiso bis Mont Blanc). Idealer Familien-Rundkurs mit Einkehr an der Magià.",
+      "stats": "8–12 km • ⇑ 150–300 Hm • 2,5–4 h",
+      "start": {
+        "name": "Porliod/Parcheggio",
+        "lat": 45.80672,
+        "lon": 7.51495
+      },
+      "pois": [
+        {
+          "name": "Rifugio Magià (2007 m)",
+          "lat": 45.8009,
+          "lon": 7.5314
+        }
+      ],
+      "tags": [
+        "leicht",
+        "Weitblick",
+        "Einkehr"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Osservatorio_Astronomico_Valle_d%27Aosta.jpg"
+      ],
+      "links": [
+        {
+          "label": "Komoot – Rifugio Magià (Highlight)",
+          "url": "https://www.komoot.com/highlight/1513832"
+        }
+      ]
+    }
+  ],
+  "mtb": [
+    {
+      "type": "mtb",
+      "name": "Saint-Barthélemy Gravel-Runde (familienfreundlich)",
+      "area": "Nus · Saint-Barthélemy",
+      "summary": "Breite Schotterpisten durch Wälder & Almen, praktisch flach – perfekt für Kids. Pause an der Rifugio Magià.",
+      "stats": "10–34 km variabel • ⇑ 150–300 Hm • leicht",
+      "start": {
+        "name": "Porliod/Parcheggio",
+        "lat": 45.80672,
+        "lon": 7.51495
+      },
+      "tags": [
+        "leicht",
+        "Gravel/Forstweg",
+        "Panorama"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Osservatorio_Astronomico_Valle_d%27Aosta.jpg"
+      ],
+      "links": [
+        {
+          "label": "Saint-Barthélemy Info",
+          "url": "https://www.summitpost.org/saint-barth-lemy-valley/947860"
+        }
+      ]
+    },
+    {
+      "type": "mtb",
+      "name": "Cogne – Valnontey Loipenwege (Sommer)",
+      "area": "Cogne · Gran Paradiso",
+      "summary": "Auf den breiten Sommerwegen der Winterloipen quer durchs Tal, variabel bis Lillaz/Valnontey – sehr familienfreundlich.",
+      "stats": "8–25 km variabel • ⇑ 100–300 Hm • leicht",
+      "start": {
+        "name": "Cogne Zentrum",
+        "lat": 45.6076,
+        "lon": 7.3591
+      },
+      "tags": [
+        "leicht",
+        "Wege/Loipen",
+        "Tierbeobachtung"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cogne_and_Valnontey_2017-08.jpg"
+      ],
+      "links": [
+        {
+          "label": "LoveVDA – Valnontey Info",
+          "url": "https://www.lovevda.it/en/database/7/mountaineering-routes/cogne/punta-patri/2734"
+        }
+      ]
+    },
+    {
+      "type": "mtb",
+      "name": "Cervinia – Höhenwege & sanfte Downhills",
+      "area": "Breuil-Cervinia · Valtournenche",
+      "summary": "Mit Seilbahnunterstützung (optional) auf einfache Schotterwege und lange Abfahrten bis Valtournenche. Stets mit Cervino-Blick.",
+      "stats": "15–30 km variabel • ⇑ 200–600 Hm • leicht–moderat",
+      "start": {
+        "name": "Breuil-Cervinia",
+        "lat": 45.936,
+        "lon": 7.63
+      },
+      "tags": [
+        "leicht–moderat",
+        "Panorama",
+        "Seilbahn optional"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lago_Blu.jpg"
+      ],
+      "links": [
+        {
+          "label": "LoveVDA MTB-Übersicht",
+          "url": "https://www.lovevda.it/en/nature/sports/mountain-bike"
+        }
+      ]
+    },
+    {
+      "type": "mtb",
+      "name": "Lys-Tal (Gressoney) – Talradweg & Gover-See",
+      "area": "Gressoney-Saint-Jean",
+      "summary": "Gemütlich entlang des Lys-Bachs, Kulturstopp am Schloss Savoia. Spielplatz & Bootsverleih am Gover-See.",
+      "stats": "10–20 km • ⇑ <150 Hm • sehr leicht",
+      "start": {
+        "name": "Gressoney-Saint-Jean",
+        "lat": 45.738,
+        "lon": 7.823
+      },
+      "tags": [
+        "sehr leicht",
+        "Talradweg",
+        "Kultur"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Castel_Savoia.JPG"
+      ]
+    },
+    {
+      "type": "mtb",
+      "name": "Aosta – Bahntrassenradweg bis Fénis",
+      "area": "Aosta · Mittelteil",
+      "summary": "Familienfreundlicher, weitgehend flacher Radweg auf alter Trasse durch Weinberge und Dörfer. Kulturstopp: Schloss Fénis.",
+      "stats": "10–30 km variabel • ⇑ <150 Hm • sehr leicht",
+      "start": {
+        "name": "Aosta Ost",
+        "lat": 45.7378,
+        "lon": 7.3223
+      },
+      "tags": [
+        "sehr leicht",
+        "Radweg",
+        "Kultur"
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Roman_theatre_Aosta-1.jpg"
+      ],
+      "links": [
+        {
+          "label": "Fénis Castle (LoveVDA)",
+          "url": "https://www.lovevda.it/en/database/8/castles-and-towers/fenis/fenis-castle/979"
+        }
+      ]
+    }
+  ],
+  "culture": [
+    {
+      "type": "culture",
+      "name": "Aosta – Römisches Theater & Altstadt",
+      "area": "Aosta",
+      "summary": "Römische Ruinen, gemütliche Altstadtgassen, Gelaterie. Ideal für einen halben Tag und bei wechselhaftem Wetter.",
+      "stats": "Stadtspaziergang",
+      "start": {
+        "name": "Römisches Theater",
+        "lat": 45.737813,
+        "lon": 7.322325
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Roman_theatre_Aosta-1.jpg"
+      ],
+      "links": [
+        {
+          "label": "Atlas Obscura (Koordinaten)",
+          "url": "https://www.atlasobscura.com/places/roman-theatre-aosta-italy"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "name": "Fort Bard – Museum der Alpen",
+      "area": "Bard (Untereingang des Tals)",
+      "summary": "Mächtige Festung mit modernem Museumsbesuch und gläsernen Aufzügen. Perfekt bei schlechtem Wetter.",
+      "start": {
+        "name": "Fort Bard",
+        "lat": 45.60536,
+        "lon": 7.74061
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fort_Bard.jpg"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_Bard"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "name": "Castel Savoia & Gover-See",
+      "area": "Gressoney-Saint-Jean",
+      "summary": "Märchenschloss der Königin Margherita in großem Park; kombinierbar mit See & Spielplatz.",
+      "start": {
+        "name": "Castel Savoia",
+        "lat": 45.76417,
+        "lon": 7.82667
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Castel_Savoia.JPG"
+      ],
+      "links": [
+        {
+          "label": "Comune Gressoney – Koordinaten",
+          "url": "https://www.comune.gressoneystjean.ao.it/en-us/vivere-il-comune/cosa-vedere/castello-savoia-32251-1-921a682988b3d5c5d8a2bfc9b2840c90"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "name": "Parc Animalier d’Introd – Tierpark",
+      "area": "Introd (nahe Aosta)",
+      "summary": "Steinböcke, Gämsen, Murmeltiere & Eulen aus nächster Nähe – top mit Kindern.",
+      "start": {
+        "name": "Eingang Parc Animalier",
+        "lat": 45.693234,
+        "lon": 7.178733
+      },
+      "images": [],
+      "links": [
+        {
+          "label": "Offizielle Seite",
+          "url": "https://www.parc-animalier-introd.it/dove-siamo/"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "name": "Skyway Monte Bianco (Pontal d’Entrèves → Punta Helbronner)",
+      "area": "Courmayeur",
+      "summary": "Spektakuläre Seilbahn bis 3.466 m – drehende Kabinen, Schneeerlebnis im Sommer. Höhe beachten (mit Kids nicht zu lang).",
+      "start": {
+        "name": "Talstation Pontal d’Entrèves",
+        "lat": 45.8159,
+        "lon": 6.9561
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Percorso_Skyway_Monte_Bianco_vista_frontale.jpg"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Skyway_Monte_Bianco"
+        }
+      ]
+    }
+  ],
+  "food": [
+    {
+      "name": "Covalou – Ristorante Agriturismo",
+      "address": "Fraz. Covalou, 6 – 11020 Antey-Saint-André",
+      "map": "https://maps.google.com/?q=Fraz.+Covalou,+6,+11020+Antey-Saint-Andr%C3%A9",
+      "website": "https://www.lovevda.it/en/database/16/restaurants/antey-saint-andre/covalou/2719",
+      "notes": "Typische Bergküche (Raclette, Pierrade, Fondue), sehr familienfreundlich. Draußen kleiner Spielplatz.",
+      "tags": [
+        "regional",
+        "familienfreundlich"
+      ],
+      "image": "https://www.lovevda.it/immagini/ristoranti/2719/ristorante.jpg"
+    },
+    {
+      "name": "Osteria Il Vicolo",
+      "address": "Via Sant’Anselmo 49, Aosta",
+      "map": "https://maps.google.com/?q=Via+Sant%27Anselmo+49+Aosta",
+      "website": "https://wanderlog.com/place/details/2446094/il-vicolo-osteria-tipica-valdostana-e-pizzeria",
+      "notes": "Bodenständig-valdostanische Küche, entspanntes Ambiente, fair bepreist – gut mit Kindern.",
+      "tags": [
+        "valdostanisch",
+        "gemütlich"
+      ],
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "name": "La Bottegaccia (Wein & Platten)",
+      "address": "Via Sant’Anselmo 90, Aosta",
+      "map": "https://maps.google.com/?q=Via+Sant%27Anselmo+90+Aosta",
+      "website": "https://www.tripadvisor.co.uk/Restaurant_Review-g187863-d6772656-Reviews-La_Bottegaccia-Aosta_Valle_d_Aosta.html",
+      "notes": "Uriges Weinbistrot – großartige Käse- & Wurstplatten (Fontina, Fromadzo, Jambon de Bosses, Lard d’Arnad).",
+      "tags": [
+        "Wein",
+        "Platten"
+      ],
+      "image": "https://images.unsplash.com/photo-1546549037-6160fd8b1bd4?q=80&w=800&auto=format&fit=crop"
+    }
+  ],
+  "stays": [
+    {
+      "name": "Agriturismo/Residence Covalou",
+      "type": "Agriturismo / Apartments",
+      "area": "Antey-Saint-André (Valtournenche)",
+      "map": "https://maps.google.com/?q=Loc.+Covalou+6,+Antey-Saint-Andr%C3%A9",
+      "website": "https://villaggio-turistico-covalou.valle-daosta-hotels.com/en/",
+      "notes": "Familienfreundlich, Spielplatz, ideale Lage für Cervinia/Chamois/Valtournenche."
+    },
+    {
+      "name": "Aosta/Cogne – FeWo oder Agriturismo",
+      "type": "Ferienwohnung / Agriturismo",
+      "area": "Raum Aosta · Gran Paradiso",
+      "map": "https://maps.google.com/?q=Cogne",
+      "website": "https://www.lovevda.it",
+      "notes": "Zentrale Basis für Gran-Paradiso-Täler (Cogne, Rhêmes, Valsavarenche) und Stadt Aosta."
+    }
+  ],
+  "plan": [
+    {
+      "day": 1,
+      "title": "Anreise & Aosta-Altstadt",
+      "base": "Aosta/Cogne",
+      "theme": "Ankommen",
+      "summary": "Einchecken, kurzer Stadtspaziergang zum Römischen Theater, Pizza & Gelato.",
+      "links": [
+        {
+          "label": "Römisches Theater",
+          "url": "https://www.atlasobscura.com/places/roman-theatre-aosta-italy"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Lago d’Arpy (Wanderung)",
+      "base": "Aosta/Cogne",
+      "theme": "See & Panorama",
+      "summary": "Früh zum Col San Carlo, Wanderung zum Lago d’Arpy, Picknick am See; Nachmittag Relax/Pool."
+    },
+    {
+      "day": 3,
+      "title": "Cogne – Valnontey (MTB/leicht)",
+      "base": "Aosta/Cogne",
+      "theme": "MTB & Tiere",
+      "summary": "Familienrunde auf Loipenwegen; Fernglas einpacken – oft Steinböcke am Talende.",
+      "links": [
+        {
+          "label": "Cogne Info",
+          "url": "https://en.wikipedia.org/wiki/Cogne"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Rifugio Benevolo (Wanderung)",
+      "base": "Aosta/Cogne",
+      "theme": "Hütte",
+      "summary": "Gemütlicher Aufstieg durch das Val di Rhêmes; Kuchen & Kakao auf der Hütte."
+    },
+    {
+      "day": 5,
+      "title": "Schlechtwetter-Option: Fort Bard + Fénis",
+      "base": "Aosta → Osten",
+      "theme": "Kultur",
+      "summary": "Festung & Museum; auf Rückweg Schloss Fénis (kurze Führung, Spielplatz nebenan)."
+    },
+    {
+      "day": 6,
+      "title": "Umzug Ost-Basis (Antey/Torgnon/Gressoney)",
+      "base": "Ostbasis",
+      "theme": "Talwechsel",
+      "summary": "Gemütliche Fahrt, nachmittags kurzer Lago Blu-Spaziergang (Matterhorn-Foto!)."
+    },
+    {
+      "day": 7,
+      "title": "Chamois & Lago di Lod (Wandern)",
+      "base": "Ostbasis",
+      "theme": "Seilbahn & See",
+      "summary": "Seilbahn Buisson–Chamois, Spaziergang zum Lago di Lod, Tretboote/Spielwiese."
+    },
+    {
+      "day": 8,
+      "title": "Cervinia Höhenwege (MTB, optional Lift)",
+      "base": "Ostbasis",
+      "theme": "MTB & Panorama",
+      "summary": "Leichte Schotterwege, lange Abfahrten – immer mit Cervino-Blick."
+    },
+    {
+      "day": 9,
+      "title": "Gressoney – Castel Savoia & Talradweg (MTB leicht)",
+      "base": "Ostbasis",
+      "theme": "Kultur & Rad",
+      "summary": "Märchenschloss + entspannte Lys-Radwege, Baden/Boot am Gover-See."
+    },
+    {
+      "day": 10,
+      "title": "Reserve & Abreise",
+      "base": "—",
+      "theme": "Flex",
+      "summary": "Skyway Monte Bianco bei gutem Wetter ODER Rutor-Wasserfälle; Rückreise."
+    }
+  ],
+  "tips": [
+    {
+      "title": "Ausrüstung",
+      "text": "Feste Schuhe, Kinder-Helme/Protektoren fürs MTB, Sonnenschutz (UV in Höhe!), leichte Regenjacke, Fernglas."
+    },
+    {
+      "title": "Sicherheit",
+      "text": "Alpine Gefahren ernst nehmen: Wetterumschwünge, Gewitter. Auf markierten Wegen bleiben; Notruf 112."
+    },
+    {
+      "title": "Karten & Apps",
+      "text": "Offline-Karten in Komoot/Maps.Me laden. Diese Web-App funktioniert offline für Texte/Fotos; Karten benötigen Internet."
+    },
+    {
+      "title": "Kinder-Motivation",
+      "text": "Kurze Etappen, Hütte/See als Ziel, Sammelspiele (Blätter/Steine), kleine Süßi-Belohnungen 😉."
+    },
+    {
+      "title": "Verkehr & Parken",
+      "text": "Haupttal A5 (Maut) oder Parallelstraße; Seitentäler mit Parkplätzen an Trailheads. Früh da sein, Parkplätze füllen sich rasch."
+    }
+  ],
+  "attribution": [
+    "Lago d’Arpy Startkoordinate: Randos-Montblanc (GPS 45.742817, 6.989551).",
+    "Lago d’Arpy Foto: Rollopack, Wikimedia Commons (CC BY-SA).",
+    "Rifugio Benevolo Koordinaten: Fondazione Montagna Sicura.",
+    "Rifugio Walter Bonatti Koordinaten: de.wikipedia.org (45°50′52″N 7°02′05″E).",
+    "Rutor-Wasserfälle Parkplatz: locationscout.net (45.689270, 6.961205).",
+    "Lago Blu Koordinaten & Fotos: Wikipedia/Commons (45.92250, 7.61806).",
+    "Buisson–Chamois Seilbahn: LoveVDA Eintrag.",
+    "Saint-Barthélemy: Komoot/Summitpost; Rifugio Magià Highlight.",
+    "Aosta Römisches Theater: Atlas Obscura Koordinaten.",
+    "Fort Bard Foto: Wikimedia Commons.",
+    "Castel Savoia Koordinaten: Comune Gressoney.",
+    "Skyway Monte Bianco: Wikipedia."
+  ]
+}
