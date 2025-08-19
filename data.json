@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "title": "Aostatal Family Guide (24.08–03.09.2025)",
+    "subtitle": "Wandern • Familien-MTB • Essen • Kultur • Karten",
+    "notes": [
+      "Zeitraum eurer Reise: 24.08.–03.09.2025",
+      "Fokus: familienfreundliche Touren mit tollen Panoramen, leichte bis moderate Trails abseits der Bikeparks."
+    ]
+  },
+  "poi": [
+    {
+      "id": "lago_arpy",
+      "name": "Lago d’Arpy (Panoramasee mit Blick zum Mont Blanc)",
+      "category": "Wandern",
+      "coords": [
+        45.723189,
+        7.000211
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Lago%20di%20Arpy.jpg",
+      "summary": "Kurze, sehr lohnende Familienwanderung zum türkisfarbenen See mit Blick auf die Grandes Jorasses/Mont-Blanc-Gruppe.",
+      "details": "Start am Colle San Carlo; gut markierter Waldweg, kinderfreundlich. Picknickstellen am Ufer (Lärchen, flache Felsen).",
+      "distance_km": "4–5 km RT",
+      "up_m": "~250 hm",
+      "tech": "leicht",
+      "links": [
+        {
+          "label": "Start‑Koordinate (Parkplatz)",
+          "url": "https://www.google.com/maps?q=45.742817,6.989551"
+        },
+        {
+          "label": "Tourinfo (Randos Mont Blanc)",
+          "url": "https://www.randos-montblanc.com/en/easy-hikes/lago-darpy.html"
+        },
+        {
+          "label": "Fotos (Wikimedia)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lago_d%27Arpy"
+        }
+      ],
+      "citations": [
+        "turn0search0",
+        "turn0search8",
+        "turn6search0",
+        "turn6search7"
+      ]
+    },
+    {
+      "id": "benevolo",
+      "name": "Rifugio Benevolo (Val di Rhêmes)",
+      "category": "Wandern",
+      "coords": [
+        45.509331,
+        7.0765
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifugio%20Gian%20Federico%20Benevolo%20Refuge%20du%20Fond.jpg",
+      "summary": "Flowiger Talweg entlang der Dora di Rhêmes zu einer aussichtsreichen Hütte.",
+      "details": "Start in Thumel (Rhêmes-Notre-Dame). Weiden, Wasserfälle, viele Murmeltiere – ideal für Kinder. Hüttenküche (Polenta, Torte).",
+      "distance_km": "8–12 km RT (variabel)",
+      "up_m": "400–550 hm",
+      "tech": "leicht–moderat",
+      "links": [
+        {
+          "label": "AllTrails",
+          "url": "https://www.alltrails.com/trail/italy/aosta-valley/rifugio-benevolo"
+        },
+        {
+          "label": "Komoot-Highlight",
+          "url": "https://www.komoot.com/highlight/2189579"
+        },
+        {
+          "label": "Gemeinde Rhêmes‑Notre‑Dame",
+          "url": "https://en.wikipedia.org/wiki/Rh%C3%AAmes-Notre-Dame"
+        }
+      ],
+      "citations": [
+        "turn2search5",
+        "turn2search11",
+        "turn2search0",
+        "turn2search8"
+      ]
+    },
+    {
+      "id": "bonatti",
+      "name": "Rifugio Walter Bonatti (Val Ferret)",
+      "category": "Wandern",
+      "coords": [
+        45.846903,
+        7.033653
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifugio%20Bonatti%20-%20Val%20Ferret%2C%20Courmayeur%2C%20Aosta%2C%20Italia%20-%208%20Agosto%202016.jpg",
+      "summary": "Aussichtsbalkon gegenüber der Mont-Blanc-Nordseite; kurzer, steiler Hüttenanstieg.",
+      "details": "Beste Aussicht nachmittags/Abend. Familienfreundlich, aber mit einigen steileren Passagen; Einkehrmöglichkeit.",
+      "distance_km": "5–6 km RT",
+      "up_m": "~400–500 hm",
+      "tech": "moderat",
+      "links": [
+        {
+          "label": "Koordinate (Hütte)",
+          "url": "https://www.google.com/maps?q=45.846903,7.033653"
+        },
+        {
+          "label": "Wikiloc (kurzer Anstieg)",
+          "url": "https://www.wikiloc.com/hiking-trails/rifugio-walter-bonatti-da-val-ferret-141668018"
+        }
+      ],
+      "citations": [
+        "turn0search2",
+        "turn0search18",
+        "turn6search8",
+        "turn6search15"
+      ]
+    },
+    {
+      "id": "rutor",
+      "name": "Cascate del Rutor (La Thuile, La Joux)",
+      "category": "Wandern",
+      "coords": [
+        45.68927,
+        6.961205
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascate%20del%20Rutor%2C%20Prima%20cascata.jpg",
+      "summary": "Drei gewaltige Wasserfälle unter Gletschern – spektakulär und familiengeeignet bis 1. oder 2. Brücke.",
+      "details": "Start am Parkplatz La Joux. Je nach Ausdauer zur 1., 2. oder 3. Brücke. Sprühnebel – Regenjacke mitnehmen.",
+      "distance_km": "4–7 km RT",
+      "up_m": "300–500 hm",
+      "tech": "leicht–moderat",
+      "links": [
+        {
+          "label": "Parkplatz-Position",
+          "url": "https://www.google.com/maps?q=45.689270,6.961205"
+        },
+        {
+          "label": "Wikiloc Variante",
+          "url": "https://www.wikiloc.com/hiking-trails/cascata-del-rutor-la-joux-italia-187864852"
+        }
+      ],
+      "citations": [
+        "turn0search11",
+        "turn0search19",
+        "turn6search9",
+        "turn6search16"
+      ]
+    },
+    {
+      "id": "chamois_lod",
+      "name": "Chamois & Lago di Lod (autofreies Bergdorf)",
+      "category": "Wandern",
+      "coords": [
+        45.82,
+        7.625
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Lago%20di%20Lod.JPG",
+      "summary": "Sanfte Wege rund um das autofreie Chamois; Sessellift/Seilbahn und Bade‑/Tretbootspaß am Lago di Lod.",
+      "details": "Auffahrt mit der Seilbahn Buisson–Chamois; viele Schotterwege & Spielplätze. Ideal für Pausen‑ und Badetag.",
+      "distance_km": "2–8 km (variabel)",
+      "up_m": "100–400 hm",
+      "tech": "leicht",
+      "links": [
+        {
+          "label": "Seilbahnzeiten (Buisson–Chamois)",
+          "url": "https://www.lovevda.it/en/database/5/ski-lift-complex/antey-saint-andre/buisson-chamois-cablecar/3982"
+        },
+        {
+          "label": "Komoot: Lago di Lod",
+          "url": "https://www.komoot.com/highlight/4476519"
+        }
+      ],
+      "citations": [
+        "turn9search14",
+        "turn9search15",
+        "turn6search3",
+        "turn9search5"
+      ]
+    },
+    {
+      "id": "maggia",
+      "name": "Rifugio Magià via Porliod (Familien‑MTB/Gravel)",
+      "category": "MTB",
+      "coords": [
+        45.81,
+        7.506
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifugio%20Magia%20-%20Valle%20d%27Aosta.jpg",
+      "summary": "Perfekt für Kinder: breite Schotterstraße durch die einsame Val Saint‑Barthélemy bis zur Hütte (Kuchen!).",
+      "details": "Start Parkplatz Porliod/Lignan. Sachte Steigung, 100% fahrbar. Optional Abfahrt identisch retour.",
+      "distance_km": "14–20 km RT (variabel)",
+      "up_m": "400–600 hm",
+      "tech": "leicht",
+      "links": [
+        {
+          "label": "LoveVDA Routenbeschreibung",
+          "url": "https://www.lovevda.it/en/database/7/mountain-bike/nus/the-pure-valley-of-saint-barthelemy/2825"
+        },
+        {
+          "label": "AllTrails (Wanderweg)",
+          "url": "https://www.alltrails.com/trail/italy/aosta-valley/rifugio-magia-da-porliod"
+        },
+        {
+          "label": "Rifugio Magià (offiziell)",
+          "url": "https://www.rifugiomagia.it/"
+        }
+      ],
+      "citations": [
+        "turn3search4",
+        "turn3search0",
+        "turn10search0",
+        "turn3search11"
+      ]
+    },
+    {
+      "id": "cogne_valnontey_mtb",
+      "name": "Cogne – Valnontey Familien‑MTB (Gran Paradiso)",
+      "category": "MTB",
+      "coords": [
+        45.608,
+        7.355
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Valnontey%20village%20-%20Aosta%20Valley%2C%20Italy.jpg",
+      "summary": "Landschaftskino zwischen Wiesen & Bachläufen, niedrige technische Schwierigkeit – ideal als Chill‑Ride.",
+      "details": "Start in Cogne über die Sant’Orso‑Wiesen, entlang des Valnontey‑Bachs bis zu den Weilern (mehrere Einkehrstopps).",
+      "distance_km": "10–15 km",
+      "up_m": "200–350 hm",
+      "tech": "leicht",
+      "links": [
+        {
+          "label": "LoveVDA MTB Valnontey",
+          "url": "https://www.lovevda.it/en/database/7/mountain-bike/cogne/in-gran-paradiso-park-valnontey/2925"
+        },
+        {
+          "label": "Komoot Übersicht Cogne",
+          "url": "https://www.komoot.com/guide/611732/mtb-trails-around-cogne"
+        }
+      ],
+      "citations": [
+        "turn4search3",
+        "turn4search0",
+        "turn4search6"
+      ]
+    },
+    {
+      "id": "lago_blu",
+      "name": "Lago Blu (Matterhorn‑Spiegelung, Valtournenche)",
+      "category": "Wandern",
+      "coords": [
+        45.922275,
+        7.617744
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Lago%20Blu%202022.jpg",
+      "summary": "Kurzer Spaziergang zu einem der ikonischsten Fotospots der Alpen – mit Kindern super machbar.",
+      "details": "Parkmöglichkeiten an der SS406, kurzer Zustieg. Beste Spiegelungen morgens/abends bei Windstille.",
+      "distance_km": "1–3 km",
+      "up_m": "<100 hm",
+      "tech": "leicht",
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Blue_Lake_(Italy)"
+        },
+        {
+          "label": "Commons‑Bilder",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lago_Blu"
+        }
+      ],
+      "citations": [
+        "turn7search0",
+        "turn7search3",
+        "turn7search2"
+      ]
+    },
+    {
+      "id": "fenis",
+      "name": "Castello di Fénis (Kinderfreundliche Burgführung)",
+      "category": "Kultur",
+      "coords": [
+        45.74,
+        7.481
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fenis%20Castle.JPG",
+      "summary": "Eine der bekanntesten Burgen des Aostatals – spannend für Kids, gutes Schlechtwetterprogramm.",
+      "details": "Geführte Besichtigung; im Sommer i. d. R. 9–19 Uhr (Mo in Juli/August geöffnet).",
+      "links": [
+        {
+          "label": "Offizielle Zeiten (LoveVDA)",
+          "url": "https://www.lovevda.it/en/database/8/castles-and-towers/fenis/fenis-castle/979"
+        }
+      ],
+      "citations": [
+        "turn0search15",
+        "turn6search4",
+        "turn6search18"
+      ]
+    },
+    {
+      "id": "fort_bard",
+      "name": "Fort Bard & Museum of the Alps",
+      "category": "Kultur",
+      "coords": [
+        45.603,
+        7.743
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20of%20Bard.JPG",
+      "summary": "Mächtige Festung am Taleingang; Panoramaaufzüge, kindgerechtes Alpen‑Museum.",
+      "details": "Sommer 2025: täglich geöffnet 10–19 Uhr (bis 07.09.); Montag sonst geschlossen. Ticketverkauf schließt 1 h vorher.",
+      "links": [
+        {
+          "label": "Öffnungszeiten 2025",
+          "url": "https://www.fortedibard.it/en/opening-hours-for-the-summer-season-2025/"
+        },
+        {
+          "label": "Museum of the Alps",
+          "url": "https://www.lovevda.it/en/database/8/museums/bard/museum-of-the-alps/1267"
+        }
+      ],
+      "citations": [
+        "turn5search2",
+        "turn5search8",
+        "turn6search12",
+        "turn5search14"
+      ]
+    },
+    {
+      "id": "aosta_roman",
+      "name": "Aosta – Römisches Theater (Hinweis: 2025 teils geschlossen)",
+      "category": "Kultur",
+      "coords": [
+        45.737,
+        7.32
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20di%20Aosta.jpg",
+      "summary": "Ikone der Stadt Aosta. 2025 laut Amt teils geschlossen bzw. eingeschränkt.",
+      "details": "Öffnungszeiten April–September normalerweise 9–19 Uhr; laut Hinweis bis Herbst 2025 Schließung/Arbeiten – vorab prüfen.",
+      "links": [
+        {
+          "label": "Offizielle Info",
+          "url": "https://www.lovevda.it/en/database/8/roman-architecture/aosta/roman-theatre/736"
+        }
+      ],
+      "citations": [
+        "turn0search14",
+        "turn0search6",
+        "turn6search6",
+        "turn6search20"
+      ]
+    },
+    {
+      "id": "eat_covalou",
+      "name": "Ristorante Covalou (Antey‑Saint‑André)",
+      "category": "Essen",
+      "coords": [
+        45.8,
+        7.583
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Fontina%20Valdostana%20DOP.jpg",
+      "summary": "Rustikal, lokal: Polenta concia, Carbonada, Fontina‑Gerichte. Familienfreundlich, Spielbereich draußen.",
+      "details": "Liegt praktisch an der Straße Richtung Cervinia/Chamois.",
+      "links": [
+        {
+          "label": "LoveVDA Eintrag",
+          "url": "https://www.lovevda.it/it/banca-dati/16/ristoranti/antey-saint-andre/covalou/2719"
+        },
+        {
+          "label": "Tripadvisor",
+          "url": "https://www.tripadvisor.it/Restaurant_Review-g660755-d2195841-Reviews-Ristorante_Villaggio_Covalou-Antey_Saint_Andre_Valle_d_Aosta.html"
+        }
+      ],
+      "citations": [
+        "turn1search9",
+        "turn1search0",
+        "turn1search12"
+      ]
+    },
+    {
+      "id": "eat_bottegaccia",
+      "name": "La Bottegaccia (Aosta, Weinbar & Taglieri)",
+      "category": "Essen",
+      "coords": [
+        45.7377,
+        7.3198
+      ],
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Aosta%20Via%20Sant%27Anselmo.jpg",
+      "summary": "Herzhafte Platten aus lokalen Käsen & Salumi, gute Weinauswahl. Locker, familientauglich.",
+      "details": "Adresse: Via Sant’Anselmo 90, Aosta (Altstadt).",
+      "links": [
+        {
+          "label": "PagineGialle Öffnungszeiten",
+          "url": "https://www.paginegialle.it/aosta-ao/ristoranti/la-bottegaccia"
+        },
+        {
+          "label": "Petit Futé Kurzportrait",
+          "url": "https://www.petitfute.co.uk/v50156-aoste/c1165-restaurants/1879842-la-bottegaccia.html"
+        }
+      ],
+      "citations": [
+        "turn1search23",
+        "turn1search20",
+        "turn1search14"
+      ]
+    }
+  ],
+  "practical": {
+    "notes_html": "\n        <h3>Praktisch & Verkehr</h3>\n        <ul>\n          <li><strong>Mont‑Blanc‑Tunnel</strong>: komplette Sperre von <strong>1. September 2025, 17:00</strong> bis <strong>12. Dezember 2025, 17:00</strong> (Renovierung). Für eure Reise relevant (Anreise/Abreise). Alternativen: Großer St. Bernhard / Kleiner St. Bernhard. Quelle: offizielle Tunnel‑Site & Verkehrsbehörden.</li>\n          <li><strong>Seilbahn Buisson–Chamois</strong>: i.d.R. <em>07:00–22:30</em>, alle 30min / bei Andrang alle 15min (Sommer). Bitte tagesaktuell prüfen.</li>\n          <li><strong>Gran Paradiso</strong>: Bitte Rücksicht auf Wanderer/Weidetiere; MTB in Cogne teils auf gemeinsam genutzten Wegen – langsam fahren in den Sant’Orso‑Wiesen.</li>\n          <li><strong>Wasser & Wetter</strong>: Nachmittags oft Gewitter – früh starten; immer Jacke, Snacks, Sonnen‑/Regenschutz einpacken.</li>\n        </ul>\n        ",
+    "citations": [
+      "turn8search0",
+      "turn8search2",
+      "turn8search6",
+      "turn9search14",
+      "turn4search3"
+    ]
+  }
+}

@@ -1,50 +1,79 @@
 <!doctype html>
 <html lang="de">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Aosta Family Guide</title>
-  <meta name="theme-color" content="#2a2f3a"/>
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-  <link rel="stylesheet" href="assets/style.css">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Aostatal Family Guide (24.08–03.09.2025)</title>
+<link rel="stylesheet" href="style.css"/>
+<link rel="preconnect" href="https://unpkg.com">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
 <body>
-  <header>
-    <div class="nav">
-      <div class="brand">
-        <img src="assets/icon.svg" alt="Logo">
-        <div>
-          <div>Aosta Family Guide</div>
-          <small>24.08–03.09.2025 · Wandern · MTB · Kulinarik · Kultur</small>
+<header>
+  <div class="container">
+    <h1>Aostatal Family Guide (24.08–03.09.2025)</h1>
+    <div class="subtitle">Wandern • Familien-MTB • Essen • Kultur • Karten</div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="grid">
+    <section>
+      <div class="card" style="padding:1rem">
+        <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap">
+          <div class="badge">Wandern</div>
+          <div class="badge">MTB & Gravel</div>
+          <div class="badge">Essen</div>
+          <div class="badge">Kultur</div>
+        </div>
+        <p class="small">Hinweis: Karten sind interaktiv (Leaflet/OpenStreetMap). Für Bilder nutzen wir frei lizenzierte Fotos (Wikimedia Commons).<br>
+        Reisezeitraum: <strong>24.08.–03.09.2025</strong>. Dieser Guide funktioniert auch offline (ohne Karten). Export: einfach die ZIP entpacken und <code>index.html</code> im Browser öffnen.</p>
+      </div>
+
+      <div id="map" class="card"></div>
+
+      <div class="filter" id="filter"></div>
+
+      <div id="list"></div>
+    </section>
+
+    <aside>
+      <div class="card">
+        <div class="body">
+          <h3>Praktisch</h3>
+          
+        <h3>Praktisch & Verkehr</h3>
+        <ul>
+          <li><strong>Mont‑Blanc‑Tunnel</strong>: komplette Sperre von <strong>1. September 2025, 17:00</strong> bis <strong>12. Dezember 2025, 17:00</strong> (Renovierung). Für eure Reise relevant (Anreise/Abreise). Alternativen: Großer St. Bernhard / Kleiner St. Bernhard. Quelle: offizielle Tunnel‑Site & Verkehrsbehörden.</li>
+          <li><strong>Seilbahn Buisson–Chamois</strong>: i.d.R. <em>07:00–22:30</em>, alle 30min / bei Andrang alle 15min (Sommer). Bitte tagesaktuell prüfen.</li>
+          <li><strong>Gran Paradiso</strong>: Bitte Rücksicht auf Wanderer/Weidetiere; MTB in Cogne teils auf gemeinsam genutzten Wegen – langsam fahren in den Sant’Orso‑Wiesen.</li>
+          <li><strong>Wasser & Wetter</strong>: Nachmittags oft Gewitter – früh starten; immer Jacke, Snacks, Sonnen‑/Regenschutz einpacken.</li>
+        </ul>
+        
+          <div class="cite">
+            Quellen: Fort Bard Öffnungszeiten; LoveVDA (offizielle Tourismusseite); TunnelMB (offizielle Tunnel-Seite); Komoot/AllTrails/Wikiloc (Tourbeispiele).
+          </div>
         </div>
       </div>
-      <div class="search">
-        <input id="search" placeholder="Suchen: Lago d’Arpy, Bonatti, Pizza…" aria-label="Suche">
+      <div class="card">
+        <div class="body">
+          <h3>Tipps für Kids</h3>
+          <ul>
+            <li>Snack‑Stopps einplanen (Hütten: Benevolo, Bonatti, Magià).</li>
+            <li>Auf Trails klare Regeln: einzeln fahren, Sichtkontakt, Stop‑Worte vereinbaren.</li>
+            <li>Abschleppseil nur bergauf, nie in Abfahrten.</li>
+          </ul>
+        </div>
       </div>
-      <button class="button" id="installBtn" title="App installieren (PWA)">Als App speichern</button>
-    </div>
-  </header>
-  <div class="container grid">
-    <aside class="sidebar">
-      <h3>Kapitel</h3>
-      <nav id="nav"></nav>
-      <hr>
-      <div class="notice">💡 Tipp: Tippt auf eine Tour, um die Karte mit Startpunkt zu öffnen. Über „Auf Karte öffnen“ startet eure Navi-App.</div>
     </aside>
-    <main>
-      <section class="section" id="content">
-        <!-- Dynamic content -->
-      </section>
-    </main>
   </div>
-  <footer>
-    <div>Erstellt für eine aktive Familie · © 2025</div>
-    <div>Kartendaten © OpenStreetMap-Mitwirkende • Tiles © OSM • Bilder mit jeweiliger CC-Lizenz (Quellenangaben auf der Detailseite).</div>
-  </footer>
+</main>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="assets/app.js"></script>
+<footer class="container">
+  <div>© 2025 – Aostatal Family Guide. Privat erstellt für eure Reise. Alle Angaben ohne Gewähr; bitte Öffnungszeiten/Wetter vor Ort prüfen.</div>
+</footer>
+
+<script src="app.js"></script>
 </body>
 </html>
